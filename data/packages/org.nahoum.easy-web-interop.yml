@@ -1,0 +1,23 @@
+name: org.nahoum.easy-web-interop
+displayName: Unity Easy Web Interop
+description: >-
+  A simple package that allows you to expose C# methods (both static and
+  instance methods) to Unity WebGL builds via JavaScript. Includes TypeScript
+  generation.
+repoUrl: https://github.com/ponahoum/unity-easy-web-interop
+parentRepoUrl: null
+licenseSpdxId: MIT
+licenseName: MIT License
+image: ''
+topics:
+  - code-generation
+  - frameworks
+  - integration
+  - services
+  - utilities
+hunter: ponahoum
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+readme: main:README.md
+createdAt: 1739931546205
